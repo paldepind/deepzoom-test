@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<SceneGraph version="1">
+  <AspectRatio>2,28247162673392</AspectRatio>
+  <BackgroundColor>000000</BackgroundColor>
+  <SceneNode>
+    <FileName>C:\Users\Rene Merrild\Desktop\Deepzooming test\Deepzoom exported to Seadragon Ajax\Q-inspect.demo\Source Images\5dsr2654-full.jpg</FileName>
+    <x>0</x>
+    <y>0</y>
+    <Width>0,414364640883978</Width>
+    <Height>0,630517023959647</Height>
+    <ZOrder>1</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Rene Merrild\Desktop\Deepzooming test\Deepzoom exported to Seadragon Ajax\Q-inspect.demo\Source Images\2t3a0164-full.jpg</FileName>
+    <x>0,382872928176796</x>
+    <y>0</y>
+    <Width>0,414364640883978</Width>
+    <Height>0,630517023959647</Height>
+    <ZOrder>2</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Rene Merrild\Desktop\Deepzooming test\Deepzoom exported to Seadragon Ajax\Q-inspect.demo\Source Images\7d2_6617.jpg</FileName>
+    <x>0,723756906077348</x>
+    <y>0,0542244640605296</y>
+    <Width>0,276243093922652</Width>
+    <Height>0,94577553593947</Height>
+    <ZOrder>3</ZOrder>
+  </SceneNode>
+</SceneGraph>

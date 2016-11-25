@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>DeepZoom</title>
+    <script src="./node_modules/openseadragon/build/openseadragon/openseadragon.js"></script>
+  </head>
+  <body>
+    <div id="deepzoom-container"></div>
+    <script>
+      const viewer = OpenSeadragon({
+        id: "deepzoom-container",
+        prefixUrl: "./node_modules/openseadragon/build/openseadragon/images/",
+        // tileSources: "/deepzoom/dzc_output.xml"
+        tileSources: "/deepzoom2/dzc_output.xml"
+      });
+    </script>
+  </body>
+</html>
